@@ -1,0 +1,4 @@
+name: Taser_Plugin
+version: '${project.version}'
+main: me.saeko.taser_plugin.Taser_Plugin
+api-version: 1.17
