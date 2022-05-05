@@ -3,7 +3,7 @@ package me.saeko.taser_plugin.Managers;
 import org.bukkit.entity.Player;
 import org.bukkit.util.Vector;
 import org.bukkit.entity.Entity;
-
+//I got this from https://bukkit.org/threads/get-entity-player-is-looking.300661/ from the user Androm
 public class Targeter {
 
     public static Player getTargetPlayer(final Player player) {
